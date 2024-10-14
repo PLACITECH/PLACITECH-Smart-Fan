@@ -1,4 +1,4 @@
-/*  Author: PLACITECH
+ /*  Author: PLACITECH
  *   
  *  YouTube: PLACITECH
  *  Instagram: @placitech_
@@ -81,7 +81,6 @@ void get_temp(){
 void setup(){
   // Start serial monitor
   Serial.begin(9600);
-  //Set the computer's in  high so I can a acoomplish the task theyb5ihru
 
   // Set the relay pin as an output (to control the fan)
   pinMode(relay, OUTPUT);
